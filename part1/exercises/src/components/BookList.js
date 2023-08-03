@@ -6,7 +6,7 @@ export default function BookList() {
 
    return (
       <div>
-         <h3>{pageTitle}</h3>
+         <h3 border = "5px solid red">{pageTitle}</h3>
          <img src={book1} alt="Fire Power" />
          <img src={book2} alt="Black Cloak" />
          <img src={book3} alt="Marvel Avengers" />

@@ -2,10 +2,13 @@
    color: darkgreen;
    font-size: large;
    font-style: italic ;
-
+   background-color: chocolate;
+   text-align: left;
 }
 
 .choresHeading {
    color: black;
    text-decoration: underline;
+   background-color: cornsilk;
+   text-align: left;
 }

@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.joyofbaking.com/other/aboutjoyofbaking.html";
+   let authorPhoto = "https://www.joyofbaking.com/images/stephanieandricktasteawards.JPG";
+   let authorName = "Stephenie Jworski";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["milk","butter","sugar","cinnamon","milkpowder"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.joyofbaking.com/images/cinnamonrolls.jpg" alt="cinnamon roll buns" className="imageUpdates"/>
    );
 }
 

@@ -1,18 +1,18 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+  {
+    "name": "Cinnamon Rolls",
+     "author": "Stephanie Jaworski",
+     "description": "cinnamon sugar dusted bread rolls for a busy week. Your family will love it every time at the end of the day for something sweet!",
+     "website": "https://www.joyofbaking.com/breakfast/CinnamonRollsBuns.html",
+     "recipeImage": "https://www.joyofbaking.com/images/cinnamonrolls.jpg",
+     "authorImage": "https://www.joyofbaking.com/images/Stephanie2015.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
        "flour",
-       "heavy cream",
+       "butter",
+       "dried milk",
+       "sugar",
        "milk"
      ]
-   }
+    }
  ]
  
